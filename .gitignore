@@ -1,0 +1,8 @@
+.vscode
+.pyc
+__pycache__
+.ipynb_checkpoints
+test.json
+test.py
+logs/
+tests/siloxane_coordination
